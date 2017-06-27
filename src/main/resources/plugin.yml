@@ -1,0 +1,5 @@
+name: Reclaimer
+main: net.maplesauce.reclaimer.DonatorReclaim
+author: Maplesauce
+version: ${project.version}
+depend: [Vault]
